@@ -33,6 +33,7 @@
 #include "lvgl.h"
 #include "../lvgl/examples/lv_examples.h"
 #include "../App/src/ILI9341.h"
+#include "../App/src/ADS1115.h"
 #include "../App/src/key.h"
 #include "../App/src/w25qxx_spi.h"
 /* USER CODE END Includes */
